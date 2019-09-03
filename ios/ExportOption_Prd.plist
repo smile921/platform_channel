@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.zjex.ios.equity</key>
+		<string>Equity_PRD</string>
+	</dict>
+	<key>teamID</key>
+	<string>F82X4A87PD</string>
+	<key>method</key>
+	<string>app-store</string>
+</dict>
+</plist>
